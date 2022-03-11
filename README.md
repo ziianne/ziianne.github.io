@@ -1,7 +1,8 @@
 # Songs That Are Currently Stuck In My Head
 by Zianne
 
-| Syntax | Description |
+### Playlist
+| Song Title | Spotify Link |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |

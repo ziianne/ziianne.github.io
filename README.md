@@ -1,12 +1,12 @@
 # Songs That Are Currently Stuck In My Head
 by Zianne
 
+``` markdown
 ### Playlist
-| Song Title | Spotify Link |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
+- First item
+- Second item
+- Third item
+- Fourth item
 # Header 1
 ## Header 2
 ### Header 3

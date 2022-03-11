@@ -1,7 +1,6 @@
 # Songs That Are Currently Stuck In My Head
 by Zianne
 
-```markdown
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
